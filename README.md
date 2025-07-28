@@ -64,9 +64,9 @@
     <tr>
       <td><a href="https://github.com/dddd0ng">dddd0ng</a></td>
       <td><a href="https://github.com/Easy-going12">Easy-going12</a></td>
-      <td><a href="https://github.com/promandu">promandu</a></td>
-      <td><a href="https://github.com/kyounggg"><kyounggg/a></td>
-      <td><a href="https://github.com/xxiuan">xxiuan</a></td>
+      <td><a href="https://github.com/glealda">glealda</a></td>
+      <td><a href="https://github.com/kyuhon">kyuhon</a></td>
+      <td><a href="https://github.com/haenin">haenin</a></td>
     </tr>
   </tbody>
 </table>
