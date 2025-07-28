@@ -1,39 +1,25 @@
-<h2> 📚 멘토멘티 매칭 플랫폼 서비스 </h2>
+## Groom
+여기이미지넣고 <br>
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![ERD Cloud](https://img.shields.io/badge/ERD%20Cloud-0059ff?style=flat&logo=cloudflare&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 👥 TEAM INTRODUCTION
+📚 멘토멘티 매칭 플랫폼 서비스
 
-### 팀명: ✨ Passion
-<h3>팀명: passion</h3>
-끊임없는 시도로 우리만의 개발 스타일을 완성해가는 팀입니다!
-
+## ✨ Passion
+### 끊임없는 시도로 우리만의 개발 스타일을 완성해가는 팀입니다!
 ### 👨‍💻 팀원 소개
-<table>
-  <thead>
-    <tr>
-      <th>곽동근</th>
-      <th>이지윤</th>
-      <th>이현수</th>
-      <th>정건일</th>
-      <th>최혜원</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
- <td><img width="427" height="427" alt="manggu" src="https://github.com/user-attachments/assets/a075647e-0851-43a6-b4a9-896b4cd9d4c9" width="120"/></td>
- <td><img width="269" height="279" alt="yuri" src="https://github.com/user-attachments/assets/9a20fdf5-5676-4d7c-9fa7-48a62174a9f5" width="120"/></td>
- <td><img width="428" height="430" alt="jjanggu" src="https://github.com/user-attachments/assets/ed010d9b-3003-43c6-9be2-3e2ab0dce7aa" width="120"></td>
- <td><img width="495" height="364" alt="chulsu" src="https://github.com/user-attachments/assets/c273c11e-8bde-4f8c-a0d6-27c00b306a50" width="120"/></td>
- <td><img width="314" height="346" alt="sugi" src="https://github.com/user-attachments/assets/01dc161a-b922-4f14-a411-9a3a3fdaf5a8" width="120"/></td>
-  </tr>
-    <tr>
-      <td><a href="https://github.com/dddd0ng">dddd0ng</a></td>
-      <td><a href="https://github.com/Easy-going12">Easy-going12</a></td>
-      <td><a href="https://github.com/glealda">glealda</a></td>
-      <td><a href="https://github.com/kyuhon">kyuhon</a></td>
-      <td><a href="https://github.com/haenin">haenin</a></td>
-    </tr>
-  </tbody>
-</table>
+| 이름 | 프로필 | GitHub |
+|------|--------|--------|
+| 곽동근 | <img src="https://github.com/user-attachments/assets/a075647e-0851-43a6-b4a9-896b4cd9d4c9" width="80"/> | [dddd0ng](https://github.com/dddd0ng) |
+| 이지윤 | <img src="https://github.com/user-attachments/assets/9a20fdf5-5676-4d7c-9fa7-48a62174a9f5" width="80"/> | [Easy-going12](https://github.com/Easy-going12) |
+| 이현수 | <img src="https://github.com/user-attachments/assets/ed010d9b-3003-43c6-9be2-3e2ab0dce7aa" width="80"/> | [glealda](https://github.com/glealda) |
+| 정건일 | <img src="https://github.com/user-attachments/assets/c273c11e-8bde-4f8c-a0d6-27c00b306a50" width="80"/> | [kyuhon](https://github.com/kyuhon) |
+| 최혜원 | <img src="https://github.com/user-attachments/assets/01dc161a-b922-4f14-a411-9a3a3fdaf5a8" width="80"/> | [haenin](https://github.com/haenin) |
+
 
 ## 🏗 1. 프로젝트 개요
 
