@@ -18,8 +18,8 @@
 | 곽동근 | <img src="https://github.com/user-attachments/assets/a075647e-0851-43a6-b4a9-896b4cd9d4c9" width="80"/> | [dddd0ng](https://github.com/dddd0ng) |
 | 이지윤 | <img src="https://github.com/user-attachments/assets/9a20fdf5-5676-4d7c-9fa7-48a62174a9f5" width="80"/> | [Easy-going12](https://github.com/Easy-going12) |
 | 이현수 | <img src="https://github.com/user-attachments/assets/ed010d9b-3003-43c6-9be2-3e2ab0dce7aa" width="80"/> | [glealda](https://github.com/glealda) |
-| 정건일 | <img src="https://github.com/user-attachments/assets/c273c11e-8bde-4f8c-a0d6-27c00b306a50" width="80"/> | [kyuhon](https://github.com/kyuhon) |
-| 최혜원 | <img src="https://github.com/user-attachments/assets/e3269e72-2ce5-4f89-86e3-a6e27d5d069a" width="80"/> | [haenin](https://github.com/haenin) |
+| 정건일 | <img src="https://github.com/user-attachments/assets/4a8fbff8-c35c-41cc-a71e-9e73d247ca83" width="80"/> | [kyuhon](https://github.com/kyuhon) |
+| 최혜원 | <img src="https://github.com/user-attachments/assets/8c058d16-c491-4487-a58f-782ec8d65a3e" width="80"/> | [haenin](https://github.com/haenin) |
 
 ## 목차
 [📢 프로젝트 개요](#-1-프로젝트-개요)
