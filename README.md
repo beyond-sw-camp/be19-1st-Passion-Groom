@@ -40,6 +40,7 @@
 - **AI 기반 매칭 알고리즘**으로 효율적 연결 (추후 확장 가능)
 - **온라인/오프라인 병행 가능한 하이브리드 구조**
 
+## 🫑 팀 소개
 
 
 <table>
@@ -61,11 +62,11 @@
  <td><img width="314" height="346" alt="sugi" src="https://github.com/user-attachments/assets/01dc161a-b922-4f14-a411-9a3a3fdaf5a8" width="120"/></td>
   </tr>
     <tr>
-      <td><a href="https://github.com/dddd0ng"></a></td>
-      <td><a href="https://github.com/Easy-going12"></a></td>
-      <td><a href="https://github.com/promandu"></a></td>
-      <td><a href="https://github.com/kyounggg"></a></td>
-      <td><a href="https://github.com/xxiuan"></a></td>
+      <td><a href="https://github.com/dddd0ng">dddd0ng</a></td>
+      <td><a href="https://github.com/Easy-going12">Easy-going12</a></td>
+      <td><a href="https://github.com/promandu">promandu</a></td>
+      <td><a href="https://github.com/kyounggg"><kyounggg/a></td>
+      <td><a href="https://github.com/xxiuan">xxiuan</a></td>
     </tr>
   </tbody>
 </table>
