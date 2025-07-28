@@ -11,7 +11,7 @@
   <tbody>
 
     <tr>
-      <td><img src="![jjanga](https://github.com/user-attachments/assets/d59c963b-a3d8-49bd-a0f0-17914e479760)" width="80"/></td>
+      <td>[jjanga](https://github.com/user-attachments/assets/d59c963b-a3d8-49bd-a0f0-17914e479760)</td>
       <td><img src="https://user-images.githubusercontent.com/이미지링크/j2.png" width="80"/></td>
       <td><img src="https://user-images.githubusercontent.com/이미지링크/m.png" width="80"/></td>
       <td><img src="https://user-images.githubusercontent.com/이미지링크/y.png" width="80"/></td>
