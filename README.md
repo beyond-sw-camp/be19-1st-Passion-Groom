@@ -9,9 +9,14 @@
     </tr>
   </thead>
   <tbody>
+<img width="427" height="427" alt="manggu" src="https://github.com/user-attachments/assets/a075647e-0851-43a6-b4a9-896b4cd9d4c9" />
+<img width="269" height="279" alt="yuri" src="https://github.com/user-attachments/assets/9a20fdf5-5676-4d7c-9fa7-48a62174a9f5" />
+<img width="428" height="430" alt="jjanggu" src="https://github.com/user-attachments/assets/ed010d9b-3003-43c6-9be2-3e2ab0dce7aa" />
+<img width="495" height="364" alt="chulsu" src="https://github.com/user-attachments/assets/c273c11e-8bde-4f8c-a0d6-27c00b306a50" />
+<img width="314" height="346" alt="sugi" src="https://github.com/user-attachments/assets/01dc161a-b922-4f14-a411-9a3a3fdaf5a8" />
 
     <tr>
-      <td>https://github.com/user-attachments/assets/d59c963b-a3d8-49bd-a0f0-17914e479760</td>
+      <td><img src="https://user-images.githubusercontent.com/이미지링크/j2.png" width="80"/></td>
       <td><img src="https://user-images.githubusercontent.com/이미지링크/j2.png" width="80"/></td>
       <td><img src="https://user-images.githubusercontent.com/이미지링크/m.png" width="80"/></td>
       <td><img src="https://user-images.githubusercontent.com/이미지링크/y.png" width="80"/></td>
