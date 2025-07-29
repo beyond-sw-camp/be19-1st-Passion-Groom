@@ -1,7 +1,6 @@
 ## Groom
 
-<img width="1080" height="1080" alt="제목을 입력해주세요_-001" src="https://github.com/user-attachments/assets/d485a801-3b39-4b3e-9600-5248f86daebd" />
-
+<img width="200" height="200" alt="제목을 입력해주세요_-001 (1)" src="https://github.com/user-attachments/assets/225e9bab-0a2d-4f24-af64-76157686fcb0" />
 
 <br>
 
