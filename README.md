@@ -1,7 +1,10 @@
 ## Groom
 
 <img width="1080" height="1080" alt="제목을 입력해주세요_-001" src="https://github.com/user-attachments/assets/d485a801-3b39-4b3e-9600-5248f86daebd" />
+
+
 <br>
+
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
