@@ -2,7 +2,7 @@
 
 <img width="500" height="500" alt="제목을 입력해주세요_-001 (1)" src="https://github.com/user-attachments/assets/225e9bab-0a2d-4f24-af64-76157686fcb0" />
 
-<br>
+<br>ㄴ
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -11,7 +11,7 @@
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-📚 멘토멘티 매칭 플랫폼 서비스\
+📚 멘토멘티 매칭 플랫폼 서비스
 
 ## ✨ Passion
 ### 끊임없는 시도로 우리만의 개발 스타일을 완성해가는 팀입니다!
@@ -31,11 +31,11 @@
 ## 📢 프로젝트 개요
 
 > 관심 분야의 멘토와 멘티를 연결하여, 온라인/오프라인 클래스 및 맞춤형 멘토링을 제공하는 **매칭 플랫폼 서비스**입니다.  
-> 실시간 소통과 경험 공유를 중심으로 한 **1:1 멘토링과 클래스 중심 커뮤니티**를 제공합니다.
+> 실시간 소통과 경험 공유를 중심으로 한 **1:1 커뮤니티 중심 멘토링** 을 제공합니다.
 
 ---
 
-## 📌 문제 배경
+## 📌 1. 문제 배경
 
 - **비대면 학습의 확산**  
   코로나19 이후 비대면 교육이 활성화되며, 온라인에서 전문적인 지식 전달 및 멘토링에 대한 수요가 증가하고 있습니다.
@@ -50,7 +50,7 @@
 
 ---
 
-## 💡 서비스 개요
+## 💡 2. 서비스 개요
 
 > 관심사 기반의 멘토-멘티 매칭을 통해  
 > 온라인/오프라인 클래스 및 1:1 멘토링을 지원하는 통합 플랫폼입니다.
