@@ -2,7 +2,7 @@
 
 <img width="500" height="500" alt="제목을 입력해주세요_-001 (1)" src="https://github.com/user-attachments/assets/225e9bab-0a2d-4f24-af64-76157686fcb0" />
 
-<br>ㄴ
+<br>
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
