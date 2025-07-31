@@ -19,11 +19,12 @@
 
 | 이름 | 프로필 | GitHub |
 |------|--------|--------|
-| 곽동근 | <img src="https://github.com/user-attachments/assets/a075647e-0851-43a6-b4a9-896b4cd9d4c9" width="80"/> |  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME) [![Link](https://img.shields.io/badge/Link-000?style=for-the-badge)](https://github.com/dddd0ng) |
-| 이지윤 | <img src="https://github.com/user-attachments/assets/9a20fdf5-5676-4d7c-9fa7-48a62174a9f5" width="80"/> |  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME) [![Link](https://img.shields.io/badge/Link-000?style=for-the-badge)](https://github.com/Easy-going12) |
-| 이현수 | <img src="https://github.com/user-attachments/assets/ed010d9b-3003-43c6-9be2-3e2ab0dce7aa" width="80"/> | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME) [![Link](https://img.shields.io/badge/Link-000?style=for-the-badge)](https://github.com/glealda) |
-| 정건일 | <img src="https://github.com/user-attachments/assets/4a8fbff8-c35c-41cc-a71e-9e73d247ca83" width="80"/> |  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME) [![Link](https://img.shields.io/badge/Link-000?style=for-the-badge)](https://github.com/kyuhon) |
-| 최혜원 | <img src="https://github.com/user-attachments/assets/8c058d16-c491-4487-a58f-782ec8d65a3e" width="80"/> |  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME) [![Link](https://img.shields.io/badge/Link-000?style=for-the-badge)](https://github.com/haenin) |
+| 곽동근 | <img src="https://github.com/user-attachments/assets/a075647e-0851-43a6-b4a9-896b4cd9d4c9" width="80"/> | <a href="https://github.com/dddd0ng"><img src="https://img.shields.io/badge/GitHub%20%7C%20Link-000?style=for-the-badge&logo=github&logoColor=white" width="130"/></a> |
+| 이지윤 | <img src="https://github.com/user-attachments/assets/9a20fdf5-5676-4d7c-9fa7-48a62174a9f5" width="80"/> | <a href="https://github.com/Easy-going12"><img src="https://img.shields.io/badge/GitHub%20%7C%20Link-000?style=for-the-badge&logo=github&logoColor=white" width="130"/></a> |
+| 이현수 | <img src="https://github.com/user-attachments/assets/ed010d9b-3003-43c6-9be2-3e2ab0dce7aa" width="80"/> | <a href="https://github.com/glealda"><img src="https://img.shields.io/badge/GitHub%20%7C%20Link-000?style=for-the-badge&logo=github&logoColor=white" width="130"/></a> |
+| 정건일 | <img src="https://github.com/user-attachments/assets/4a8fbff8-c35c-41cc-a71e-9e73d247ca83" width="80"/> | <a href="https://github.com/kyuhon"><img src="https://img.shields.io/badge/GitHub%20%7C%20Link-000?style=for-the-badge&logo=github&logoColor=white" width="130"/></a> |
+| 최혜원 | <img src="https://github.com/user-attachments/assets/8c058d16-c491-4487-a58f-782ec8d65a3e" width="80"/> | <a href="https://github.com/haenin"><img src="https://img.shields.io/badge/GitHub%20%7C%20Link-000?style=for-the-badge&logo=github&logoColor=white" width="130"/></a> |
+
 
 ## 목차
 [📢 프로젝트 개요](#-1-프로젝트-개요)
@@ -35,7 +36,7 @@
 
 ---
 
-## 📌 1. 문제 배경
+## 📌 1. 문제 배경 및 필요성
 
 - **비대면 학습의 확산**  
   코로나19 이후 비대면 교육이 활성화되며, 온라인에서 전문적인 지식 전달 및 멘토링에 대한 수요가 증가하고 있습니다.
@@ -72,9 +73,9 @@
 ## 🔧 4. 핵심 기능
 
 - 지역과 관심사 기반 **멘토-멘티 매칭 시스템**
-- **1:1 피드백 기능**
+- 멘토롱 매칭 후 멘토의 **1:1 피드백 기능**
 - **후기 및 별점 평가**, 추천 멘토 노출 시스템
-- **일정 관리**, 즐겨찾기, 알림 기능 등 부가 UX 기능
+- **일정 관리**, 즐겨찾기 등 부가 UX 기능
 
 
 ## 🧠 5. 서비스 차별점
@@ -102,10 +103,14 @@
 <details>
   <summary>테이블 생성</summary>
 
+# 테스트 케이스 정의서
+
+
 # DML
 <details>
   <summary>트리거</summary>
   <details>
   <summary>뷰</summary>
+    
 # 🧲 Replication
-# 테스트 케이스 정의서
+
