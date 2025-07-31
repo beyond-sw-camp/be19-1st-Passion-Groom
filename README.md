@@ -97,8 +97,6 @@
 # 📂 DB모델링
 
 ## UML (Usecase Diagram)
-<details>
-  <summary>유스케이스</summary>
 <img width="1313" height="705" alt="usecase (1)" src="https://github.com/user-attachments/assets/44790aff-f045-4975-8d8d-e575eaa723dc" />
 
 ## 1. 개념 모델링
