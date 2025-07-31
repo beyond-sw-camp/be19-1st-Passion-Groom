@@ -6,9 +6,9 @@
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-orange?logo=intellij-idea&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![DA# Certified](https://img.shields.io/badge/DA%23-blue?style=flat-square)
+![DA# Certified](https://img.shields.io/badge/DA%23-green?style=flat-square)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?logo=intellij-idea&logoColor=white)
 ![ERD Cloud](https://img.shields.io/badge/ERD%20Cloud-0059ff?style=flat&logo=cloudflare&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -27,9 +27,9 @@
 | 정건일 | <img src="https://github.com/user-attachments/assets/4a8fbff8-c35c-41cc-a71e-9e73d247ca83" width="80"/> | <a href="https://github.com/kyuhon"><img src="https://img.shields.io/badge/GitHub%20%7C%20Link-000?style=for-the-badge&logo=github&logoColor=white" width="130"/></a> |
 | 최혜원 | <img src="https://github.com/user-attachments/assets/8c058d16-c491-4487-a58f-782ec8d65a3e" width="80"/> | <a href="https://github.com/haenin"><img src="https://img.shields.io/badge/GitHub%20%7C%20Link-000?style=for-the-badge&logo=github&logoColor=white" width="130"/></a> |
 
-
-## 목차
+## 🔖 목차
 [📢 프로젝트 개요](#-1-프로젝트-개요)
+
 
 ## 📢 프로젝트 개요
 
@@ -85,39 +85,33 @@
 - 단순 정보 제공이 아닌  
   → **실시간 지식 커뮤니티 + 클래스형 멘토링 결합**
 
+# 📢 프로젝트 구조 ( 코딩컨벤션 )
 ---
 
-# 📊 WBS(Work Breakdown Structure)
+# 📊 WBS(Work Breakdown Structure) 
+<img width="1133" height="387" alt="스크린샷 2025-07-31 오후 5 40 56" src="https://github.com/user-attachments/assets/ba9b479d-0cb9-48a4-96c8-6b9a299f8407" />
 
 # 🗒️ 요구사항 명세서
 
-# UML (Usecase Diagram)
 
 # 📂 DB모델링
 
-## 1. 개념 모델링
-
-UML (Usecase Diagram)
+## UML (Usecase Diagram)
 <details>
   <summary>유스케이스</summary>
 <img width="1313" height="705" alt="usecase (1)" src="https://github.com/user-attachments/assets/44790aff-f045-4975-8d8d-e575eaa723dc" />
 
+## 1. 개념 모델링
+
 ## 2. 논리 모델링
 
-## 3. 개념 모델링
+## 3. 물리 모델링
 
-# DDL
-<details>
-  <summary>테이블 생성</summary>
-
-# 테스트 케이스 정의서
+# TEST CASE  정의서
 
 
-# DML
-<details>
-  <summary>트리거</summary>
-  <details>
-  <summary>뷰</summary>
-    
 # 🧲 Replication
+
+## 💡 TEST CASE 시연
+
 
