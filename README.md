@@ -19,11 +19,11 @@
 
 | 이름 | 프로필 | GitHub |
 |------|--------|--------|
-| 곽동근 | <img src="https://github.com/user-attachments/assets/a075647e-0851-43a6-b4a9-896b4cd9d4c9" width="80"/> | [dddd0ng](https://github.com/dddd0ng) |
-| 이지윤 | <img src="https://github.com/user-attachments/assets/9a20fdf5-5676-4d7c-9fa7-48a62174a9f5" width="80"/> | [Easy-going12](https://github.com/Easy-going12) |
-| 이현수 | <img src="https://github.com/user-attachments/assets/ed010d9b-3003-43c6-9be2-3e2ab0dce7aa" width="80"/> | [glealoda](https://github.com/glealda) |
-| 정건일 | <img src="https://github.com/user-attachments/assets/4a8fbff8-c35c-41cc-a71e-9e73d247ca83" width="80"/> | [kyuhon](https://github.com/kyuhon) |
-| 최혜원 | <img src="https://github.com/user-attachments/assets/8c058d16-c491-4487-a58f-782ec8d65a3e" width="80"/> | [haenin](https://github.com/haenin) |
+| 곽동근 | <img src="https://github.com/user-attachments/assets/a075647e-0851-43a6-b4a9-896b4cd9d4c9" width="80"/> |  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME) [![Link](https://img.shields.io/badge/Link-000?style=for-the-badge)](https://github.com/dddd0ng) |
+| 이지윤 | <img src="https://github.com/user-attachments/assets/9a20fdf5-5676-4d7c-9fa7-48a62174a9f5" width="80"/> |  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME) [![Link](https://img.shields.io/badge/Link-000?style=for-the-badge)](https://github.com/Easy-going12) |
+| 이현수 | <img src="https://github.com/user-attachments/assets/ed010d9b-3003-43c6-9be2-3e2ab0dce7aa" width="80"/> | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME) [![Link](https://img.shields.io/badge/Link-000?style=for-the-badge)](https://github.com/glealda) |
+| 정건일 | <img src="https://github.com/user-attachments/assets/4a8fbff8-c35c-41cc-a71e-9e73d247ca83" width="80"/> |  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME) [![Link](https://img.shields.io/badge/Link-000?style=for-the-badge)](https://github.com/kyuhon) |
+| 최혜원 | <img src="https://github.com/user-attachments/assets/8c058d16-c491-4487-a58f-782ec8d65a3e" width="80"/> |  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME) [![Link](https://img.shields.io/badge/Link-000?style=for-the-badge)](https://github.com/haenin) |
 
 ## 목차
 [📢 프로젝트 개요](#-1-프로젝트-개요)
@@ -82,18 +82,30 @@
 - 단순 정보 제공이 아닌  
   → **실시간 지식 커뮤니티 + 클래스형 멘토링 결합**
 
-- 다양한 상황에 유연하게 대응할 수 있는  
-  → **온라인/오프라인 병행 가능한 하이브리드 구조**
-
 ---
 
-##  WBS(Work Breakdown Structure)
+# 📊 WBS(Work Breakdown Structure)
 
-## UML (Usecase Diagram)
+# 🗒️ 요구사항 명세서
 
-## 2. DB모델링
+# UML (Usecase Diagram)
 
-## 2-1. 개념 모델링
+# 📂 DB모델링
 
-## 📝 ERD
+## 1. 개념 모델링
 
+## 2. 논리 모델링
+
+## 3. 개념 모델링
+
+# DDL
+<details>
+  <summary>테이블 생성</summary>
+
+# DML
+<details>
+  <summary>트리거</summary>
+  <details>
+  <summary>뷰</summary>
+# 🧲 Replication
+# 테스트 케이스 정의서
