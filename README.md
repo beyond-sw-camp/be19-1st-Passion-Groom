@@ -107,12 +107,12 @@
 
 ## 2. 논리 모델링
 <details>
-  <img width="768" height="666" alt="image" src="https://github.com/user-attachments/assets/6cccd4a2-e57b-4eff-9b6b-31368971d656" />
+  <img width="752" height="663" alt="image" src="https://github.com/user-attachments/assets/646c06e4-5fb6-4b43-a608-1bfd7710ec0f" />
 </details>
 
 ## 3. 물리 모델링
 <details>
-  <img width="1306" height="667" alt="image" src="https://github.com/user-attachments/assets/f6cf65fe-c6b6-4279-9c95-c71d0da8fcc1" />
+  <img width="1275" height="652" alt="image" src="https://github.com/user-attachments/assets/38d95de8-776b-46f9-b352-c16c10b5567e" />
 </details>
 
 # TEST CASE  정의서
