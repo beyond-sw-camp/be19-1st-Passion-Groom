@@ -89,7 +89,9 @@
 ---
 
 # 📊 WBS(Work Breakdown Structure) 
-<img width="1133" height="387" alt="스크린샷 2025-07-31 오후 5 40 56" src="https://github.com/user-attachments/assets/ba9b479d-0cb9-48a4-96c8-6b9a299f8407" />
+<details>
+  <img width="1133" height="387" alt="스크린샷 2025-07-31 오후 5 40 56" src="https://github.com/user-attachments/assets/ba9b479d-0cb9-48a4-96c8-6b9a299f8407" />
+</details>
 
 # 🗒️ 요구사항 명세서
 
@@ -97,13 +99,21 @@
 # 📂 DB모델링
 
 ## UML (Usecase Diagram)
-<img width="1313" height="705" alt="usecase (1)" src="https://github.com/user-attachments/assets/44790aff-f045-4975-8d8d-e575eaa723dc" />
+<details>
+  <img width="1313" height="705" alt="usecase (1)" src="https://github.com/user-attachments/assets/44790aff-f045-4975-8d8d-e575eaa723dc" />
+</details>
 
 ## 1. 개념 모델링
 
 ## 2. 논리 모델링
+<details>
+  <img width="768" height="666" alt="image" src="https://github.com/user-attachments/assets/6cccd4a2-e57b-4eff-9b6b-31368971d656" />
+</details>
 
 ## 3. 물리 모델링
+<details>
+  <img width="1306" height="667" alt="image" src="https://github.com/user-attachments/assets/f6cf65fe-c6b6-4279-9c95-c71d0da8fcc1" />
+</details>
 
 # TEST CASE  정의서
 
