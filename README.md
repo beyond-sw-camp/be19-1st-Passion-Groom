@@ -1,6 +1,7 @@
-## Groom
+## Groom 
+📚 멘토멘티 매칭 플랫폼 서비스
 
-<img width="500" height="500" alt="제목을 입력해주세요_-001 (1)" src="https://github.com/user-attachments/assets/225e9bab-0a2d-4f24-af64-76157686fcb0" />
+<img width="613" height="500" alt="groom_image" src="https://github.com/user-attachments/assets/225e9bab-0a2d-4f24-af64-76157686fcb0" />
 
 <br>
 
@@ -13,7 +14,7 @@
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-📚 멘토멘티 매칭 플랫폼 서비스
+
 
 ## ✨ Passion
 ### 끊임없는 시도로 우리만의 개발 스타일을 완성해가는 팀입니다!
@@ -29,7 +30,7 @@
 
 ## 🔖 목차
 [📢 프로젝트 개요](#-1-프로젝트-개요)
-
+[📢 프로젝트 개요](#-1-프로젝트-개요)
 
 ## 📢 프로젝트 개요
 
