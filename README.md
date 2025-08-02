@@ -43,8 +43,8 @@
 <br><br>
 
 ## 🔖 목차
-#### [📢 프로젝트 개요](##-프로젝트-개요)<br>
-#### [📊 WBS(Work Breakdown Structure)](#-WBSWork-Breakdown-Structure)<br>
+#### [📢 프로젝트 개요](#-프로젝트-개요-1)<br>
+#### [📊 WBS(Work Breakdown Structure)](#-wbswork-breakdown-structure-1)<br>
 #### [🗒️ 요구사항 명세서](#-요구사항-명세서)<br>
 #### [📂 DB모델링](#-DB모델링)<br>
 #### [TEST CASE 정의서](#-TEST-CASE-정의서)<br>
