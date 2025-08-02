@@ -47,6 +47,7 @@
 #### [📊 WBS(Work Breakdown Structure)](#-WBSWork-Breakdown-Structure)<br>
 #### [🗒️ 요구사항 명세서](#-요구사항-명세서)<br>
 #### [📂 DB모델링](#-DB모델링)<br>
+#### [TEST CASE 정의서](#-TEST-CASE-정의서)<br>
 #### [🧲 Replication](#-Replication)<br>
 #### [💡 TEST CASE 시연](#-TEST-CASE-시연)<br>
 
