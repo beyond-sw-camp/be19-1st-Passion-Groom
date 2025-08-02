@@ -125,53 +125,53 @@
 
 <details>
 <summary>회원</summary>
- <details>
-&nbsp;&nbsp;<summary>회원가입</summary>
+&nbsp;&nbsp;<details>
+<summary>회원가입</summary>
 
   ![Image](https://github.com/user-attachments/assets/16a7c44e-7018-4b37-95c4-66e4c47e5ff0)
 </details>
-<details>
-&nbsp;&nbsp;<summary>중복이메일 가입 제한</summary>
+&nbsp;&nbsp;<details>
+<summary>중복이메일 가입 제한</summary>
 
   ![Image](https://github.com/user-attachments/assets/f0731fe2-0bc1-4907-a642-3e1c6e57b4dc)
 </details>
-<details>
-&nbsp;&nbsp;<summary>중복전화번호 가입 제한</summary>
+&nbsp;&nbsp;<details>
+<summary>중복전화번호 가입 제한</summary>
 
   ![Image](https://github.com/user-attachments/assets/cfae13df-01f4-4609-8414-9c0ea2c8a66f)
 </details>
-<details>
-&nbsp;&nbsp;<summary>회원 상세정보 입력</summary>
+&nbsp;&nbsp;<details>
+<summary>회원 상세정보 입력</summary>
 
   ![Image](https://github.com/user-attachments/assets/4ade703e-46e6-45b9-8fbe-56d2ef964d2c)
 </details>
-<details>
-&nbsp;&nbsp;<summary>회원가입일, 수정일자 자동등록</summary>
+&nbsp;&nbsp;<details>
+<summary>회원가입일, 수정일자 자동등록</summary>
 
   ![Image](https://github.com/user-attachments/assets/2cd5de5b-f200-4016-a6fe-c2883e9d9c2b)
 </details>
-<details>
-&nbsp;&nbsp;<summary>로그인 유효성 검사</summary>
+&nbsp;&nbsp;<details>
+<summary>로그인 유효성 검사</summary>
 
   ![Image](https://github.com/user-attachments/assets/176f9f17-16f8-4375-91cf-37693eb52411)
 </details>
-<details>
-&nbsp;&nbsp;<summary>이메일 조회</summary>
+&nbsp;&nbsp;<details>
+<summary>이메일 조회</summary>
 
   ![Image](https://github.com/user-attachments/assets/3ed1ce86-52d6-4c04-a85f-d3c59e5ad70c)
 </details>
-<details>
-&nbsp;&nbsp;<summary>비밀번호 변경</summary>
+&nbsp;&nbsp;<details>
+<summary>비밀번호 변경</summary>
 
   ![Image](https://github.com/user-attachments/assets/78cfcefb-16a6-4478-8016-df8eb5c44be1)
 </details>
-<details>
-&nbsp;&nbsp;<summary>회원 구분</summary>
+&nbsp;&nbsp;<details>
+<summary>회원 구분</summary>
 
   ![Image](https://github.com/user-attachments/assets/0dfd64cd-d1e4-4de1-92ae-923e1d756168)
 </details>
-<details>
-&nbsp;&nbsp;<summary>회원 경력 인증</summary>
+&nbsp;&nbsp;<details>
+<summary>회원 경력 인증</summary>
 
   ![Image](https://github.com/user-attachments/assets/8fb097f8-407b-4287-ad96-dcf07fad0313)
 </details>
@@ -180,48 +180,48 @@
 
 <details>
 <summary>프로필</summary>
-<details>
-&nbsp;&nbsp;<summary>회원 탈퇴</summary>
+&nbsp;&nbsp;<details>
+<summary>회원 탈퇴</summary>
 
   ![Image](https://github.com/user-attachments/assets/965b4dd0-06ac-4596-aaf4-565bc7322d0b)
 </details>
-<details>
-&nbsp;&nbsp;<summary>회원 정보 수정</summary>
+&nbsp;&nbsp;<details>
+<summary>회원 정보 수정</summary>
 
   ![Image](https://github.com/user-attachments/assets/d9ac963a-a277-4c6e-8589-6be72e55eeae)
 </details>
-<details>
-&nbsp;&nbsp;<summary>포인트충전</summary>
+&nbsp;&nbsp;<details>
+<summary>포인트충전</summary>
 
   ![Image](https://github.com/user-attachments/assets/d685fa35-faa9-4ffd-81a3-302a05f6bff5)
 </details>
-<details>
-&nbsp;&nbsp;<summary>회원 평점 조회</summary>
+&nbsp;&nbsp;<details>
+<summary>회원 평점 조회</summary>
 
   ![Image](https://github.com/user-attachments/assets/de0a303b-2a11-45f6-a850-c3da80c3c1bc)
 </details>
-<details>
-&nbsp;&nbsp;<summary>멘토회원 조회</summary>
+&nbsp;&nbsp;<details>
+<summary>멘토회원 조회</summary>
 
   ![Image](https://github.com/user-attachments/assets/39491672-0e84-437b-9338-941cc46167f6)
 </details>
-<details>
-&nbsp;&nbsp;<summary>멘티회원 조회</summary>
+&nbsp;&nbsp;<details>
+<summary>멘티회원 조회</summary>
 
   ![Image](https://github.com/user-attachments/assets/c9112611-09f1-4df4-8f45-b984802898e1)
 </details>
-<details>
-&nbsp;&nbsp;<summary>회원 전체 조회</summary>
+&nbsp;&nbsp;<details>
+<summary>회원 전체 조회</summary>
 
   ![Image](https://github.com/user-attachments/assets/d101e97e-54fd-46bb-8a3e-01b82eeb2346)
 </details>
-<details>
-&nbsp;&nbsp;<summary>특정회원 상세조회</summary>
+&nbsp;&nbsp;<details>
+<summary>특정회원 상세조회</summary>
 
   ![Image](https://github.com/user-attachments/assets/629ccacf-e7c5-43af-b91a-2e071f137120)
 </details>
-<details>
-&nbsp;&nbsp;<summary>관리자 권한 관리</summary>
+&nbsp;&nbsp;<details>
+<summary>관리자 권한 관리</summary>
 
   ![Image](https://github.com/user-attachments/assets/9706665f-08c3-4df6-94b5-116632d0347f)
 </details>
