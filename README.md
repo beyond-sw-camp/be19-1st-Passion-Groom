@@ -31,6 +31,8 @@
 
 ## 👨‍💻 팀원 소개
 
+<br>
+
 <div align="center"> 
   
 |<img src="https://github.com/user-attachments/assets/a075647e-0851-43a6-b4a9-896b4cd9d4c9" width="100" height = "100"> |<img src="https://github.com/user-attachments/assets/9a20fdf5-5676-4d7c-9fa7-48a62174a9f5" width="100" height = "100"> |<img src="https://github.com/user-attachments/assets/ed010d9b-3003-43c6-9be2-3e2ab0dce7aa" width="100" height = "100"> | <img src="https://github.com/user-attachments/assets/4a8fbff8-c35c-41cc-a71e-9e73d247ca83" width="100" height = "100"> | <img src="https://github.com/user-attachments/assets/8c058d16-c491-4487-a58f-782ec8d65a3e" width="100" height = "100">|
@@ -123,6 +125,12 @@
 <br><br>
   
 # 🗒️ 요구사항 명세서
+<img width="2160" height="947" alt="11" src="https://github.com/user-attachments/assets/8164ab28-b3f9-40b6-b9c4-6e244df4cc6d" />
+<img width="2160" height="757" alt="22" src="https://github.com/user-attachments/assets/5a2ee122-eac5-4d5a-9d3e-418c04e712bb" />
+<img width="2160" height="650" alt="33" src="https://github.com/user-attachments/assets/98304f09-b538-4f34-8bf7-0be22fe01dad" />
+
+
+
 
 <br><br>
 
@@ -151,7 +159,7 @@
 
 
 <details>
-<summary><b>회원</b></summary>
+<summary><b><i>회원</i></b></summary>
 <br>
 <details>
 <summary>회원가입</summary>
@@ -207,7 +215,7 @@
 
 
 <details>
-<summary><b>프로필</b></summary>
+<summary><b><i>프로필</i></b></summary>
   <br>
 <details>
 <summary>회원 탈퇴</summary>
@@ -330,7 +338,8 @@
   <tr>
     <td>이지윤</td>
     <td>체계 설계자로서 프로젝트 진행체계에 대해 제일 중요하게 생각해주었습니다<br>
-      프로젝트에 대한 의논을 했을 때 제가 프로젝트에 집중한 상황에서 진행체계에 대한 경각심을 주어 프로젝트 진행에 대한 안정감을 받았습니다</td>
+      프로젝트에 대한 의논을 했을 때 제가 프로젝트에 집중한 상황에서 진행체계에 대한 경각심을 주어 <br>
+      프로젝트 진행에 대한 안정감을 받았습니다</td>
   </tr>
   <tr>
     <td>최혜원</td>
@@ -340,8 +349,8 @@
   </tr>
   <tr>
     <td>이현수</td>
-    <td>팀원간에 마찰이 일어날 수 있는 상황에서도 묵행자로서 맡은 바 역할을 충실히 했습니다<br>
-    덕분에 저희 프로젝트에 빠르게 가속도가 붙었습니다</td>
+    <td>팀원간에 의견일치가 되지 않는 상황에서도 묵행자로서 맡은 바 역할을 충실히 했습니다<br>
+    덕분에 저희 프로젝트에 빠르게 가속도가 붙어서 프로젝트를 완료할 수 있었습니다</td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;총&nbsp;합&nbsp;</td>
