@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/9c55fa07-1770-463c-8c3c-3e390ff6e3a6" align="right" height="90" />
+<img src="https://github.com/user-attachments/assets/0aff8f8d-da27-4c78-a406-ceca80f924bc" align="right" height="90" />
 
 ## Groom 
 📚 멘토멘티 매칭 플랫폼 서비스
@@ -22,12 +22,12 @@
 
 </div>
 
-<br>
+<br><br>
 
 ## ✨ Passion
 ### 끊임없는 시도로 우리만의 개발 스타일을 완성해가는 팀입니다!
 
-<br>
+<br><br>
 
 ## 👨‍💻 팀원 소개
 
@@ -40,21 +40,16 @@
 
 </div>
 
-
-
-
-
-
-<br>
+<br><br>
 
 ## 🔖 목차
 #### [📢 프로젝트 개요](#-프로젝트-개요)<br>
-#### [📢 프로젝트 구조](#-프로젝트-구조)<br>
-#### [📊 WBS(Work Breakdown Structure) ](#-WBSWork-Breakdown-Structure)<br>
-#### [📢 프로젝트 개요](#-프로젝트-개요)<br>
-#### [📢 프로젝트 개요](#-프로젝트-개요)<br>
-#### [📢 프로젝트 개요](#-프로젝트-개요)<br>
-#### [📢 프로젝트 개요](#-프로젝트-개요)<br>
+#### [📊 WBS(Work Breakdown Structure)](#-WBSWork-Breakdown-Structure)<br>
+#### [🗒️ 요구사항 명세서](#-요구사항-명세서)<br>
+#### [📂 DB모델링](#-DB모델링)<br>
+#### [🧲 Replication](#-Replication)<br>
+#### [💡 TEST CASE 시연](#-TEST-CASE-시연)<br>
+
 <br><br><br>
 
 ## 📢 프로젝트 개요
@@ -111,34 +106,32 @@
 - 단순 정보 제공이 아닌  
   → **실시간 지식 커뮤니티 + 클래스형 멘토링 결합**
 
-# 📢 프로젝트 구조
----
+<br><br>
 
 # 📊 WBS(Work Breakdown Structure) 
   <img width="1133" height="387" alt="스크린샷 2025-07-31 오후 5 40 56" src="https://github.com/user-attachments/assets/ba9b479d-0cb9-48a4-96c8-6b9a299f8407" />
 
-
+<br><br>
+  
 # 🗒️ 요구사항 명세서
 
+<br><br>
 
 # 📂 DB모델링
 
 ## UML (Usecase Diagram)
-<details>
-  <img width="1313" height="705" alt="usecase (1)" src="https://github.com/user-attachments/assets/44790aff-f045-4975-8d8d-e575eaa723dc" />
-</details>
+<img width="1313" height="705" alt="usecase" src="https://github.com/user-attachments/assets/44790aff-f045-4975-8d8d-e575eaa723dc" />
+
 
 ## 1. 개념 모델링
 
 ## 2. 논리 모델링
-<details>
-  <img width="752" height="663" alt="image" src="https://github.com/user-attachments/assets/646c06e4-5fb6-4b43-a608-1bfd7710ec0f" />
-</details>
+<img width="752" height="663" alt="image" src="https://github.com/user-attachments/assets/646c06e4-5fb6-4b43-a608-1bfd7710ec0f" />
+
 
 ## 3. 물리 모델링
-<details>
-  <img width="1275" height="652" alt="image" src="https://github.com/user-attachments/assets/38d95de8-776b-46f9-b352-c16c10b5567e" />
-</details>
+<img width="1275" height="652" alt="image" src="https://github.com/user-attachments/assets/38d95de8-776b-46f9-b352-c16c10b5567e" />
+
 
 # TEST CASE  정의서
 
