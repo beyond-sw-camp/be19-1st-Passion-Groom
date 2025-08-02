@@ -269,8 +269,7 @@
 
 
 <details>
-<summary><b>멘토링 상품 등록</b></summary>
-<br>
+<summary>멘토링 상품 등록</summary>
 </details>
 <details>
 <summary>멘토링 상품 파일등록</summary>
@@ -320,6 +319,41 @@
 <summary>멘토링 상품 삭제</summary>
 
 </details>
+
+
+<details>
+<summary><b><i>자유게시판</i></b></summary>
+<br>
+<details>
+<summary>게시글 작성</summary>
+<img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/post/Adobe%20Express%20-%20REQ-074.gif" />
+</details>
+<details>
+<summary>게시글 파일등록</summary>
+  
+</details>
+<details>
+<summary>게시글 좋아요</summary>
+  
+</details>
+<details>
+<summary>게시글 삭제</summary>
+  
+</details>
+<details>
+<summary>게시글 조회</summary>
+  
+</details>
+<details>
+<summary>게시글 조회</summary>
+  
+</details>
+<details>
+<summary>관리자-게시판 신고 관리</summary>
+  
+</details>
+
+</details>
 <br>
 
 ## 🍪 동료 평가
@@ -338,13 +372,12 @@
   <tr>
     <td>이지윤</td>
     <td>체계 설계자로서 프로젝트 진행체계에 대해 제일 중요하게 생각해주었습니다<br>
-      프로젝트에 대한 의논을 했을 때 제가 프로젝트에 집중한 상황에서 진행체계에 대한 경각심을 주어 <br>
-      프로젝트 진행에 대한 안정감을 받았습니다</td>
+      프로젝트에 대한 의논을 했을 때 제가 프로젝트에 집중한 상황에서 진행체계에 대한 경각심을 주어 프로젝트 진행에 <br> 대한 안정감을 받았습니다</td>
   </tr>
   <tr>
     <td>최혜원</td>
-    <td>처음 프로젝트를 시작할 때 모두가 익숙하지 않아할 때 프로젝트 빌더로서 중요한 요구사항을 적고 초기 테이블 설계를 맡았습니다<br>
-      덕분에 프로젝트 시간을 좀 더 빨리 앞당길 수 있었고 좀 더 여유롭게 프로젝트를 진행할 수 있었습니다
+    <td>처음 프로젝트를 시작하고 모두가 익숙하지 않을 때 프로젝트 빌더로서 중요한 요구사항을 적고 초기 테이블 설계를 맡았습니다<br>
+      덕분에 프로젝트 시간을 좀 더 빨리 앞당길 수 있었고 여유롭게 프로젝트를 진행할 수 있었습니다
     </td>
   </tr>
   <tr>
