@@ -43,13 +43,13 @@
 <br><br>
 
 ## 🔖 목차
-#### [📢 프로젝트 개요](프로젝트-개요)<br>
-#### [📊 WBS(Work Breakdown Structure)](WBSWork-Breakdown-Structure)<br>
-#### [🗒️ 요구사항 명세서](요구사항-명세서)<br>
-#### [📂 DB모델링](DB모델링)<br>
-#### [TEST CASE 정의서](TEST-CASE-정의서)<br>
-#### [🧲 Replication](Replication)<br>
-#### [💡 TEST CASE 시연](TEST-CASE-시연)<br>
+#### [📢 프로젝트 개요](##-프로젝트-개요)<br>
+#### [📊 WBS(Work Breakdown Structure)](#-WBSWork-Breakdown-Structure)<br>
+#### [🗒️ 요구사항 명세서](#-요구사항-명세서)<br>
+#### [📂 DB모델링](#-DB모델링)<br>
+#### [TEST CASE 정의서](#-TEST-CASE-정의서)<br>
+#### [🧲 Replication](#-Replication)<br>
+#### [💡 TEST CASE 시연](##-TEST-CASE-시연)<br>
 
 <br><br><br>
 
@@ -134,7 +134,7 @@
 <img width="1275" height="652" alt="image" src="https://github.com/user-attachments/assets/38d95de8-776b-46f9-b352-c16c10b5567e" />
 
 
-# TEST CASE  정의서
+# TEST CASE 정의서
 
 
 # 🧲 Replication
