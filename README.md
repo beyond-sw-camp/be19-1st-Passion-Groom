@@ -31,12 +31,14 @@
 
 ## 👨‍💻 팀원 소개
 
+<div align="center"> 
+  
 |<img src="https://github.com/user-attachments/assets/a075647e-0851-43a6-b4a9-896b4cd9d4c9" width="100" height = "100"> |<img src="https://github.com/user-attachments/assets/9a20fdf5-5676-4d7c-9fa7-48a62174a9f5" width="100" height = "100"> |<img src="https://github.com/user-attachments/assets/ed010d9b-3003-43c6-9be2-3e2ab0dce7aa" width="100" height = "100"> | <img src="https://github.com/user-attachments/assets/4a8fbff8-c35c-41cc-a71e-9e73d247ca83" width="100" height = "100"> | <img src="https://github.com/user-attachments/assets/8c058d16-c491-4487-a58f-782ec8d65a3e" width="100" height = "100">|
 | :------------------------------------: | :-------------------------------------: | :--------------------------------------: | :-----------------------------------: | :------------------------------------------: |
 | 곽동근 | 이지윤 | 이현수 | 정건일 | 최혜원 |
 |<a href="https://github.com/dddd0ng"><img src="https://img.shields.io/badge/GitHub%20%7C%20Link-000?style=for-the-badge&logo=github&logoColor=white" width="130"/></a> |<a href="https://github.com/Easy-going12"><img src="https://img.shields.io/badge/GitHub%20%7C%20Link-000?style=for-the-badge&logo=github&logoColor=white" width="130"/></a> |<a href="https://github.com/golealda"><img src="https://img.shields.io/badge/GitHub%20%7C%20Link-000?style=for-the-badge&logo=github&logoColor=white" width="130"/></a> |<a href="https://github.com/kyuhon"><img src="https://img.shields.io/badge/GitHub%20%7C%20Link-000?style=for-the-badge&logo=github&logoColor=white" width="130"/></a> |<a href="https://github.com/haenin"><img src="https://img.shields.io/badge/GitHub%20%7C%20Link-000?style=for-the-badge&logo=github&logoColor=white" width="130"/></a> |
 
-
+</div>
 
 
 
@@ -47,8 +49,12 @@
 
 ## 🔖 목차
 #### [📢 프로젝트 개요](#-프로젝트-개요)<br>
-[📢 프로젝트 구조](#-프로젝트-구조)<br>
-
+#### [📢 프로젝트 구조](#-프로젝트-구조)<br>
+#### [📊 WBS(Work Breakdown Structure) ](#-WBSWork-Breakdown-Structure)<br>
+#### [📢 프로젝트 개요](#-프로젝트-개요)<br>
+#### [📢 프로젝트 개요](#-프로젝트-개요)<br>
+#### [📢 프로젝트 개요](#-프로젝트-개요)<br>
+#### [📢 프로젝트 개요](#-프로젝트-개요)<br>
 <br><br><br>
 
 ## 📢 프로젝트 개요
@@ -109,9 +115,8 @@
 ---
 
 # 📊 WBS(Work Breakdown Structure) 
-<details>
   <img width="1133" height="387" alt="스크린샷 2025-07-31 오후 5 40 56" src="https://github.com/user-attachments/assets/ba9b479d-0cb9-48a4-96c8-6b9a299f8407" />
-</details>
+
 
 # 🗒️ 요구사항 명세서
 
