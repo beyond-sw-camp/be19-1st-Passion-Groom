@@ -324,32 +324,51 @@
 <details>
 <summary><b><i>자유게시판</i></b></summary>
 <br>
+  
 <details>
 <summary>게시글 작성</summary>
 <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/post/Adobe%20Express%20-%20REQ-074.gif" />
 </details>
+
 <details>
 <summary>게시글 파일등록</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/blob/geonil/gif/post/Adobe%20Express%20-%20REQ-075.gif" />
   
 </details>
+
 <details>
 <summary>게시글 좋아요</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/blob/geonil/gif/post/Adobe%20Express%20-%20REQ-076.gif" />
   
 </details>
+
+<details>
+<summary>게시글 수정</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/blob/geonil/gif/post/Adobe%20Express%20-%20REQ-077.gif" />
+   
+</details>
+
 <details>
 <summary>게시글 삭제</summary>
-  
+    <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/blob/geonil/gif/post/Adobe%20Express%20-%20REQ-078.gif" />
+
 </details>
+
 <details>
 <summary>게시글 조회</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/blob/geonil/gif/post/Adobe%20Express%20-%20REQ-079.gif" />
   
 </details>
+
 <details>
-<summary>게시글 조회</summary>
+<summary>게시글 신고</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/blob/geonil/gif/post/Adobe%20Express%20-%20REQ-080.gif" />
   
 </details>
+
 <details>
 <summary>관리자-게시판 신고 관리</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/blob/geonil/gif/post/Adobe%20Express%20-%20REQ-081.gif" />
   
 </details>
 
@@ -372,7 +391,7 @@
   <tr>
     <td>이지윤</td>
     <td>체계 설계자로서 프로젝트 진행체계에 대해 제일 중요하게 생각해주었습니다<br>
-      프로젝트에 대한 의논을 했을 때 제가 프로젝트에 집중한 상황에서 진행체계에 대한 경각심을 주어 프로젝트 진행에 <br> 대한 안정감을 받았습니다</td>
+      프로젝트에 대한 의논을 했을 때 제가 프로젝트에 집중한 상황에서 진행체계에 대한 경각심을 주어 프로젝트 진행에 대한 안정감을 받았습니다</td>
   </tr>
   <tr>
     <td>최혜원</td>
