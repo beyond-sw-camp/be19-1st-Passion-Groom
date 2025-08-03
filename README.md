@@ -30,13 +30,7 @@
 
 ## 🔖 목차
 #### [📢 프로젝트 개요](#-프로젝트-개요-1)<br>
-#### [📊 WBS(Work Breakdown Structure)](#-wbswork-breakdown-structure-1)<br>
-#### [🗒️ 요구사항 명세서](#%ef%b8%8f-요구사항-명세서-1)<br>
-#### [📂 DB모델링](#-DB모델링-1)<br>
-#### [TEST CASE 정의서](#test-case-정의서-1)<br>
-#### [🧲 Replication](#-replication-1)<br>
-#### [💡 TEST CASE 시연](#-test-case-시연-1)<br>
-#### [🍪 동료 평가](#-동료-평가-1)<br>
+
 <br><br><br>
 
 
@@ -44,6 +38,7 @@
 
 > 관심 분야의 멘토와 멘티를 연결하여, 온라인/오프라인 클래스 및 맞춤형 멘토링을 제공하는 **매칭 플랫폼 서비스**입니다.  
 > 실시간 소통과 경험 공유를 중심으로 한 **1:1 커뮤니티 중심 멘토링** 을 제공합니다.
+<br>
 
 ---
 
@@ -60,6 +55,7 @@
 - **1:1 맞춤형 멘토링 수요 증가**  
   단순한 정보 제공이 아닌,  
   개인 맞춤형 멘토와의 실시간 소통과 클래스 기반 경험 공유의 중요성이 커지고 있습니다.
+<br>
 
 
 ## 💡 2. 서비스 개요
@@ -69,6 +65,7 @@
 
 - **1:1 멘토링**, **회원평점**, **후기 평가 시스템** 등을 통해  
   사용자 간의 신뢰와 지속적인 상호작용을 유도합니다.
+<br>
 
 
 ## 🎯 3. 주요 대상
@@ -80,6 +77,7 @@
 - **멘티**  
   진로 고민 중인 학생, 취업 준비생, 전공/비전공자 등  
   → 실제 현업 경험자의 조언과 현실적인 가이드를 받고자 하는 사용자
+<br>
 
 
 ## 🔧 4. 핵심 기능
@@ -88,12 +86,14 @@
 - 멘토롱 매칭 후 멘토의 **1:1 피드백 기능**
 - **후기 및 별점 평가**, 추천 멘토 노출 시스템
 - **일정 관리**, 즐겨찾기 등 부가 UX 기능
+<br>
 
 
 ## 🧠 5. 서비스 차별점
 
 - 단순 정보 제공이 아닌  
   → **실시간 지식 커뮤니티 + 클래스형 멘토링 결합**
+<br>
 
 ## 🗂️ 프로젝트 구조
 ---
@@ -103,6 +103,7 @@
 <details>
   <img width="1014" height="353" alt="스크린샷 2025-08-03 오후 4 04 21" src="https://github.com/user-attachments/assets/23eb6663-9e15-443f-adb9-ebe167b8ab07" />
 </details>
+<br>
 
 # 🗒️ 요구사항 명세서
 [요구사항명세서](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=356197860#gid=356197860)
@@ -110,6 +111,8 @@
 <img width="960" height="596" alt="스크린샷 2025-08-03 오후 4 03 43" src="https://github.com/user-attachments/assets/79e33e20-b79b-4dbc-94db-e9c2bc069ad1" />
 <img width="963" height="467" alt="스크린샷 2025-08-03 오후 4 01 03" src="https://github.com/user-attachments/assets/ac72d5d9-0efe-438a-987d-306f2a571581" />
 </details>
+<br>
+
 
 # 📝 테이블 명세서
 [테이블명세서](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=1835814727#gid=1835814727)
@@ -224,35 +227,43 @@
 <img width="837" height="209" alt="스크린샷 2025-08-03 오후 4 42 09" src="https://github.com/user-attachments/assets/5acff97c-4e2e-43a2-98a9-60e7b983cc48" />
 </details>
 
-
 </details>
+<br>
 
 # 📂 DB모델링
+<br>
 
 ## UML (Usecase Diagram)
 <details>
   <img width="1313" height="705" alt="usecase (1)" src="https://github.com/user-attachments/assets/44790aff-f045-4975-8d8d-e575eaa723dc" />
 </details>
+<br>
 
 ## 1. 개념 모델링
 <details>
   <img width="2310" height="1078" alt="image" src="https://github.com/user-attachments/assets/7f259329-7e7a-4c83-95f9-f1811c851a4b" />
 </details>
+<br>
 
 ## 2. 논리 모델링
 <details>
   <img width="752" height="663" alt="image" src="https://github.com/user-attachments/assets/646c06e4-5fb6-4b43-a608-1bfd7710ec0f" />
 </details>
+<br>
 
 ## 3. 물리 모델링
 <details>
   <img width="1275" height="652" alt="image" src="https://github.com/user-attachments/assets/38d95de8-776b-46f9-b352-c16c10b5567e" />
 </details>
+<br>
 
 # TEST CASE  정의서
 [테스트케이스](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=806528099#gid=806528099)
 
+<br>
+
 # 🧲 Replication
+<br>
 
 ## 💡 TEST CASE 시연
 
