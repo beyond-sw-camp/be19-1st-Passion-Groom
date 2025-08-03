@@ -109,7 +109,88 @@
 <img width="960" height="596" alt="스크린샷 2025-08-03 오후 4 03 43" src="https://github.com/user-attachments/assets/79e33e20-b79b-4dbc-94db-e9c2bc069ad1" />
 <img width="963" height="467" alt="스크린샷 2025-08-03 오후 4 01 03" src="https://github.com/user-attachments/assets/ac72d5d9-0efe-438a-987d-306f2a571581" />
 </details>
+# 📝 테이블 명세서
+<details>
+  
+<details>
+<summary>회원</summary>
 
+<img width="834" height="428" alt="스크린샷 2025-08-03 오후 4 39 32" src="https://github.com/user-attachments/assets/c8c3ab88-351b-4c1a-be2f-d4858c28e8a8" />
+</details>
+
+<details>
+<summary>결제내역</summary>
+
+<img width="834" height="158" alt="스크린샷 2025-08-03 오후 4 41 24" src="https://github.com/user-attachments/assets/f57bc7d3-83e2-4081-8227-d777bc7307ed" />
+</details>
+
+<details>
+<summary>멘토링상품</summary>
+
+<img width="835" height="309" alt="스크린샷 2025-08-03 오후 4 39 42" src="https://github.com/user-attachments/assets/e0ec7997-1128-449d-8e6e-ec898bad2d4f" />
+</details>
+
+<details>
+<summary>멘토링상품카테고리</summary>
+
+<img width="835" height="141" alt="스크린샷 2025-08-03 오후 4 40 55" src="https://github.com/user-attachments/assets/46bf819a-85dd-4d60-b321-617495389e55" />
+</details>
+
+<details>
+<summary>관심멘토링상품</summary>
+
+<img width="836" height="126" alt="스크린샷 2025-08-03 오후 4 41 05" src="https://github.com/user-attachments/assets/f450b90e-1877-48d7-b4cf-4f3ccfb221c9" />
+</details>
+
+<details>
+<summary>매칭</summary>
+
+<img width="834" height="242" alt="스크린샷 2025-08-03 오후 4 39 56" src="https://github.com/user-attachments/assets/3a12f4d7-99cb-4a05-9355-afccee6c2500" />
+</details>
+
+<details>
+<summary>멘토링기록</summary>
+
+<img width="836" height="209" alt="스크린샷 2025-08-03 오후 4 40 09" src="https://github.com/user-attachments/assets/95b9bf98-bc47-4632-aba2-2a4a16a8a2d0" />
+</details>
+
+<details>
+<summary>멘토링쪽지</summary>
+
+<img width="836" height="209" alt="스크린샷 2025-08-03 오후 4 40 09" src="https://github.com/user-attachments/assets/19d11b7b-94ae-4e97-b6b3-023aea1cc4d7" />
+</details>
+
+<details>
+<summary>멘토링일정</summary>
+
+<img width="835" height="142" alt="스크린샷 2025-08-03 오후 4 40 45" src="https://github.com/user-attachments/assets/66463857-e3ac-4c89-92d9-b26e17b588c7" />
+</details>
+
+<details>
+<summary>파일</summary>
+
+<img width="836" height="245" alt="스크린샷 2025-08-03 오후 4 40 36" src="https://github.com/user-attachments/assets/ee2bd6e7-9da3-4e4d-b407-3b0d01410ce9" />
+</details>
+
+<details>
+<summary>멘토링상품후기</summary>
+
+<img width="834" height="191" alt="스크린샷 2025-08-03 오후 4 41 15" src="https://github.com/user-attachments/assets/793b1261-2470-4e29-bfb3-b53c5746277f" />
+</details>
+
+<details>
+<summary>자유게시판</summary>
+
+<img width="837" height="192" alt="스크린샷 2025-08-03 오후 4 41 33" src="https://github.com/user-attachments/assets/eacc717b-d82e-45e7-8eaa-13c822a32d6c" />
+</details>
+
+<details>
+<summary>게시판신고</summary>
+  
+<img width="837" height="192" alt="스크린샷 2025-08-03 오후 4 41 41" src="https://github.com/user-attachments/assets/c9b24698-e8b2-44cd-8e1d-b403452b8803" />
+</details>
+
+</details>
 # 📂 DB모델링
 
 [테이블명세서](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=1835814727#gid=1835814727)
