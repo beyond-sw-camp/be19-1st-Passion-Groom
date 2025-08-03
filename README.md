@@ -269,7 +269,7 @@
 
 </details>
 
-## 💾 TEST CASE 시연
+# 💾 TEST CASE 시연
 
 <details>
 <summary><b><i>회원</i></b></summary>
