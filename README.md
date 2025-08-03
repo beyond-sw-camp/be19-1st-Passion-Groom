@@ -15,7 +15,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 📚 멘토멘티 매칭 플랫폼 서비스
-<br>
+<br><br><br>
 
 ## ✨ Passion
 ### 끊임없는 시도로 우리만의 개발 스타일을 완성해가는 팀입니다!
