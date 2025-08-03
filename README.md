@@ -37,9 +37,9 @@
 #### [📊 WBS(Work Breakdown Structure)](#-wbswork-breakdown-structure-1)<br>
 #### [🗒️ 요구사항 명세서](#%ef%b8%8f-요구사항-명세서-1)<br>
 #### [📂 DB모델링](#-DB모델링-1)<br>
-#### [TEST CASE 정의서](#test-case-정의서-1)<br>
 #### [🧲 Replication](#-replication-1)<br>
-#### [💡 TEST CASE 시연](#-test-case-시연-1)<br>
+#### [💡 TEST CASE 정의서](#-test-case-정의서-1)<br>
+#### [💾 TEST CASE 시연](#-test-case-시연-1)<br>
 #### [🍪 동료 평가](#-동료-평가-1)
 <br>
 
@@ -259,7 +259,9 @@
   <img width="1275" height="652" alt="image" src="https://github.com/user-attachments/assets/38d95de8-776b-46f9-b352-c16c10b5567e" />
 </details>
 
-# TEST CASE  정의서
+# 🧲 Replication
+
+# 💡 TEST CASE 정의서
 [테스트케이스](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=806528099#gid=806528099)
 <details>
 <img width="1183" height="470" alt="스크린샷 2025-08-03 오후 5 47 03" src="https://github.com/user-attachments/assets/6f4783e6-c2cb-4ef5-a4c1-4c9730ffc76a" />
@@ -267,9 +269,7 @@
 
 </details>
 
-# 🧲 Replication
-
-## 💡 TEST CASE 시연
+## 💾 TEST CASE 시연
 
 <details>
 <summary><b><i>회원</i></b></summary>
