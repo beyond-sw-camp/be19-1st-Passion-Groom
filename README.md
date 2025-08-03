@@ -34,7 +34,7 @@
 
 ## 🔖 목차
 #### [📢 프로젝트 개요](#-프로젝트-개요-1)<br>
-#### [📊 WBS(Work Breakdown Structure)](#-wbswork-breakdown-structure-1)<br>
+#### [📊 WBS](#-wbs-1)<br>
 #### [🗒️ 요구사항 명세서](#%ef%b8%8f-요구사항-명세서-1)<br>
 #### [📂 DB모델링](#-DB모델링-1)<br>
 #### [🧲 Replication](#-replication-1)<br>
@@ -109,7 +109,7 @@
 ---
 
 
-# 📊 WBS(Work Breakdown Structure)
+# 📊 WBS
 [WBS](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=1656106199#gid=1656106199)
 <details>
   <img width="1014" height="353" alt="스크린샷 2025-08-03 오후 4 04 21" src="https://github.com/user-attachments/assets/23eb6663-9e15-443f-adb9-ebe167b8ab07" />
