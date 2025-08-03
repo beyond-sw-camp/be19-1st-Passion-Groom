@@ -404,28 +404,32 @@
 <details>
 <summary>멘토링 상품 소유자만 수정 가능</summary>
 
+![Image](https://github.com/user-attachments/assets/f301dca2-849d-4077-8d83-0df17aed252b)
 </details>
 <details>
 <summary>멘토링 상품 수정</summary>
 
+![Image](https://github.com/user-attachments/assets/d9de1c49-261d-4876-a108-2d8471cce4da)
 </details>
 <details>
 <summary>멘토링 상품 삭제</summary>
 
+![Image](https://github.com/user-attachments/assets/69be29a8-96bf-4474-8200-4489354b7b3a)
 </details>
 <details>
-<summary>멘토링 상품 후기등록</summary>
+<summary>멘토링 상품 후기 등록 제한</summary>
   
-![Image](https://github.com/user-attachments/assets/b5aef0a2-cfa5-41b6-8f2c-cd78caf81bdf)
+![Image](https://github.com/user-attachments/assets/ffaf6162-152b-4677-b4c2-3c6e5955a088)
 </details>
 <details>
 <summary>멘토링 상품 후기조회</summary>
 
+![Image](https://github.com/user-attachments/assets/b5aef0a2-cfa5-41b6-8f2c-cd78caf81bdf)
 </details>
 <details>
 <summary>멘토링 상품 후기삭제</summary>
   
-![Image](https://github.com/user-attachments/assets/600c0a2c-c7a1-4a02-bba6-04e385cada41)
+![Image](https://github.com/user-attachments/assets/86e728a3-16f6-470b-9fa3-2d3af822e780)
 </details>
 <details>
 <summary>멘토링 상품 좋아요(즐겨찾기)</summary>
