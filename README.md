@@ -159,7 +159,7 @@
 <details>
 <summary>멘토링기록</summary>
 
-<img width="836" height="209" alt="스크린샷 2025-08-03 오후 4 40 09" src="https://github.com/user-attachments/assets/95b9bf98-bc47-4632-aba2-2a4a16a8a2d0" />
+<img width="836" height="194" alt="스크린샷 2025-08-03 오후 4 59 30" src="https://github.com/user-attachments/assets/3184c0cc-9fcd-408a-9293-0b13cc927a2c" />
 </details>
 
 <details>
