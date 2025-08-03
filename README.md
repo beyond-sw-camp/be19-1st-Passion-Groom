@@ -97,12 +97,14 @@
 # 📢 프로젝트 구조
 ---
 
-# 📊 WBS(Work Breakdown Structure) 
+# 📊 WBS(Work Breakdown Structure)
+[WBS](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=1656106199#gid=1656106199)
 <details>
   <img width="1014" height="353" alt="스크린샷 2025-08-03 오후 4 04 21" src="https://github.com/user-attachments/assets/23eb6663-9e15-443f-adb9-ebe167b8ab07" />
 </details>
 
 # 🗒️ 요구사항 명세서
+[요구사항명세서](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=356197860#gid=356197860)
 <details>
 <img width="960" height="596" alt="스크린샷 2025-08-03 오후 4 03 43" src="https://github.com/user-attachments/assets/79e33e20-b79b-4dbc-94db-e9c2bc069ad1" />
 <img width="963" height="467" alt="스크린샷 2025-08-03 오후 4 01 03" src="https://github.com/user-attachments/assets/ac72d5d9-0efe-438a-987d-306f2a571581" />
@@ -110,6 +112,7 @@
 
 # 📂 DB모델링
 
+[테이블명세서](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=1835814727#gid=1835814727)
 ## UML (Usecase Diagram)
 <details>
   <img width="1313" height="705" alt="usecase (1)" src="https://github.com/user-attachments/assets/44790aff-f045-4975-8d8d-e575eaa723dc" />
@@ -131,7 +134,7 @@
 </details>
 
 # TEST CASE  정의서
-
+[테스트케이스](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=806528099#gid=806528099)
 
 # 🧲 Replication
 
