@@ -251,17 +251,22 @@
 
 <details>
 <summary>멘토링 상품 등록</summary>
+![Image](https://github.com/user-attachments/assets/d148a723-fd57-47ec-84a8-ce321237c782)
 </details>
 <details>
 <summary>멘토링 상품 파일등록</summary>
-
+![Image](https://github.com/user-attachments/assets/09400d0f-080d-4266-b18d-e2ac0f27c9d3)
 </details>
 <details>
 <summary>멘토링 상품 지역기반 조회</summary>
-
+![Image](https://github.com/user-attachments/assets/50fcb640-ec18-4e8a-b103-8bfaa5cef192)
 </details>
 <details>
 <summary>멘토링 상품 카테고리별 조회</summary>
+![Image](https://github.com/user-attachments/assets/da5ef366-8bab-4740-b109-5243eb8a3858)
+</details>
+<details>
+<summary>멘토링 상품 소유자만 수정 가능</summary>
 
 </details>
 <details>
@@ -274,7 +279,7 @@
 </details>
 <details>
 <summary>멘토링 상품 후기등록</summary>
-
+![Image](https://github.com/user-attachments/assets/b5aef0a2-cfa5-41b6-8f2c-cd78caf81bdf)
 </details>
 <details>
 <summary>멘토링 상품 후기조회</summary>
@@ -282,24 +287,22 @@
 </details>
 <details>
 <summary>멘토링 상품 후기삭제</summary>
-
+![Image](https://github.com/user-attachments/assets/600c0a2c-c7a1-4a02-bba6-04e385cada41)
 </details>
 <details>
 <summary>멘토링 상품 좋아요(즐겨찾기)</summary>
-
+![Image](https://github.com/user-attachments/assets/bfe68ad3-13ac-4725-bf6f-e726246b033a)
 </details>
 <details>
 <summary>멘토링 상품 신고</summary>
-
+![Image](https://github.com/user-attachments/assets/d7aa237f-aca9-4b9a-a962-ce75e17470a5)
 </details>
 <details>
 <summary>멘토링 상품 신고 5회이상 관리자 관리</summary>
-
+![Image](https://github.com/user-attachments/assets/70473c59-ae98-4b78-8b9e-7ca3d1927308)
 </details>
 <details>
-<summary>멘토링 상품 삭제</summary>
 
-</details>
 </details>
 
 
