@@ -151,6 +151,12 @@
 </details>
 
 <details>
+<summary>멘토링상품신고</summary>
+  
+<img width="836" height="160" alt="스크린샷 2025-08-03 오후 5 01 22" src="https://github.com/user-attachments/assets/9748a0d1-ac16-4731-9e19-1ede4552833c" />
+</details>
+
+<details>
 <summary>매칭</summary>
 
 <img width="834" height="242" alt="스크린샷 2025-08-03 오후 4 39 56" src="https://github.com/user-attachments/assets/3a12f4d7-99cb-4a05-9355-afccee6c2500" />
