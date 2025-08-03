@@ -127,6 +127,12 @@
 </details>
 
 <details>
+<summary>지역</summary>
+
+<img width="835" height="107" alt="스크린샷 2025-08-03 오후 4 42 19" src="https://github.com/user-attachments/assets/b78ff574-6ab7-42a5-bd21-ffe32f1045a1" />
+</details>
+
+<details>
 <summary>멘토링상품</summary>
 
 <img width="835" height="309" alt="스크린샷 2025-08-03 오후 4 39 42" src="https://github.com/user-attachments/assets/e0ec7997-1128-449d-8e6e-ec898bad2d4f" />
@@ -191,6 +197,26 @@
   
 <img width="837" height="192" alt="스크린샷 2025-08-03 오후 4 41 41" src="https://github.com/user-attachments/assets/c9b24698-e8b2-44cd-8e1d-b403452b8803" />
 </details>
+
+<details>
+<summary>댓글</summary>
+  
+<img width="836" height="195" alt="스크린샷 2025-08-03 오후 4 41 50" src="https://github.com/user-attachments/assets/35c668a7-dcc5-4ba1-8247-8b74876ed00b" />
+
+</details>
+
+<details>
+<summary>대댓글</summary>
+  
+<img width="836" height="194" alt="스크린샷 2025-08-03 오후 4 42 00" src="https://github.com/user-attachments/assets/c04ea742-71aa-410d-8a85-63b98a4d9e91" />
+</details>
+
+<details>
+<summary>댓글신고</summary>
+  
+<img width="837" height="209" alt="스크린샷 2025-08-03 오후 4 42 09" src="https://github.com/user-attachments/assets/5acff97c-4e2e-43a2-98a9-60e7b983cc48" />
+</details>
+
 
 </details>
 
