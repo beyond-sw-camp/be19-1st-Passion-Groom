@@ -91,12 +91,14 @@
 
 # 📊 WBS(Work Breakdown Structure) 
 <details>
-  <img width="1261" height="433" alt="스크린샷 2025-08-03 오후 3 58 08" src="https://github.com/user-attachments/assets/bfed8df1-b1fb-4cd2-8250-e4555e9a126e" />
+  <img width="1014" height="353" alt="스크린샷 2025-08-03 오후 4 04 21" src="https://github.com/user-attachments/assets/23eb6663-9e15-443f-adb9-ebe167b8ab07" />
 </details>
 
 # 🗒️ 요구사항 명세서
-<img width="967" height="589" alt="스크린샷 2025-08-03 오후 4 00 51" src="https://github.com/user-attachments/assets/8a37774d-e456-45bd-800f-6b69708bd406" />
+<details>
+<img width="960" height="596" alt="스크린샷 2025-08-03 오후 4 03 43" src="https://github.com/user-attachments/assets/79e33e20-b79b-4dbc-94db-e9c2bc069ad1" />
 <img width="963" height="467" alt="스크린샷 2025-08-03 오후 4 01 03" src="https://github.com/user-attachments/assets/ac72d5d9-0efe-438a-987d-306f2a571581" />
+</details>
 
 # 📂 DB모델링
 
