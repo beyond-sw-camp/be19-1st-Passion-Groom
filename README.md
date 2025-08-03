@@ -29,7 +29,15 @@
 | 최혜원 | <img src="https://github.com/user-attachments/assets/8c058d16-c491-4487-a58f-782ec8d65a3e" width="80"/> | <a href="https://github.com/haenin"><img src="https://img.shields.io/badge/GitHub%20%7C%20Link-000?style=for-the-badge&logo=github&logoColor=white" width="130"/></a> |
 
 ## 🔖 목차
-[📢 프로젝트 개요](#-1-프로젝트-개요)
+#### [📢 프로젝트 개요](#-프로젝트-개요-1)<br>
+#### [📊 WBS(Work Breakdown Structure)](#-wbswork-breakdown-structure-1)<br>
+#### [🗒️ 요구사항 명세서](#%ef%b8%8f-요구사항-명세서-1)<br>
+#### [📂 DB모델링](#-DB모델링-1)<br>
+#### [TEST CASE 정의서](#test-case-정의서-1)<br>
+#### [🧲 Replication](#-replication-1)<br>
+#### [💡 TEST CASE 시연](#-test-case-시연-1)<br>
+#### [🍪 동료 평가](#-동료-평가-1)<br>
+<br><br><br>
 
 
 ## 📢 프로젝트 개요
@@ -129,9 +137,9 @@
 
 ## 💡 TEST CASE 시연
 
-
 <details>
-<summary>회원</summary>
+<summary><b><i>회원</i></b></summary>
+<br>
 <details>
 <summary>회원가입</summary>
 
@@ -186,7 +194,8 @@
 
 
 <details>
-<summary>프로필</summary>
+<summary><b><i>프로필</i></b></summary>
+  <br>
 <details>
 <summary>회원 탈퇴</summary>
 
@@ -236,15 +245,16 @@
 </details>
 
 
-
+<details>
+<summary><b><i>멘토링</i></b></summary>
+  <br>
 
 <details>
 <summary>멘토링 상품 등록</summary>
-
 </details>
 <details>
 <summary>멘토링 상품 파일등록</summary>
-  
+
 </details>
 <details>
 <summary>멘토링 상품 지역기반 조회</summary>
@@ -290,5 +300,200 @@
 <summary>멘토링 상품 삭제</summary>
 
 </details>
+</details>
 
 
+<details>
+<summary><b><i>매칭</i></b></summary>
+  <br>
+<details>
+  <summary>매칭 가능 여부 확인</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-039.gif" />
+</details>
+  <details>
+  <summary>매칭신청 수락 및 거절</summary>
+ <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-040.gif" />
+</details>
+  <details>
+  <summary>매칭 수락 후 멘티 포인트</summary>
+    <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-041.gif" />
+</details>
+  <details>
+  <summary>매칭수락 후 회원변경</summary>
+    <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-042.gif" />
+</details>
+  <details>
+  <summary>매칭 신청 거절</summary>
+    <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-043.gif" />
+</details>
+  <details>
+  <summary>매칭 중복 신청 방지</summary>
+    <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-044.gif" />
+</details>
+  <details>
+  <summary>매칭 종료 후 회원변경</summary>
+    <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-045.gif" />
+</details>
+  <details>
+  <summary>매칭 정보</summary>
+    <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-046.gif" />
+</details>
+  <details>
+  <summary>매칭 조회</summary>
+    <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-047.gif" />
+</details>
+  <details>
+  <summary>이력 조회</summary>
+    <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-048.gif" />
+</details>
+  <details>
+  <summary>매칭 이력 삭제</summary>
+    <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-049.gif" />
+</details>
+  <details>
+  <summary>매칭 이력 보존</summary>
+    <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-050.gif" />
+</details>
+</details>
+
+<details>
+<summary><b><i>멘토링기록 및 쪽지와 일정</i></b></summary>
+  <br>
+<details>
+  <summary>자료 업로드</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-051.gif" />
+</details>
+<details>
+  <summary>기록 등록</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-052.gif" />
+</details>
+<details>
+  <summary>기록 수정</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-053.gif" />
+</details>
+<details>
+  <summary>기록 조회</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-054.gif" />
+</details>
+<details>
+  <summary>쪽지 작성</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-055.gif" />
+</details>
+<details>
+  <summary>쪽지 삭제</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-056.gif" />
+</details>
+<details>
+  <summary>쪽지 읽음</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-057.gif" />
+</details>
+<details>
+  <summary>쪽지 조회</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-058.gif" />
+</details>
+<details>
+  <summary>일정 등록</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-059.gif" />
+</details>
+<details>
+  <summary>일정 삭제</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-060.gif" />
+</details>
+<details>
+  <summary>일정 수정</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-061.gif" />
+</details>
+<details>
+  <summary>일정 조회</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/matching/REQ-062.gif" />
+</details>
+</details>
+
+<details>
+<summary><b><i>자유게시판</i></b></summary>
+<br>
+  
+<details>
+<summary>게시글 작성</summary>
+<img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/post/Adobe%20Express%20-%20REQ-074.gif" />
+</details>
+
+<details>
+<summary>게시글 파일등록</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/post/Adobe%20Express%20-%20REQ-075.gif" />
+  
+</details>
+
+<details>
+<summary>게시글 좋아요</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/post/Adobe%20Express%20-%20REQ-076.gif" />
+  
+</details>
+
+<details>
+<summary>게시글 수정</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/post/Adobe%20Express%20-%20REQ-077.gif" />
+   
+</details>
+
+<details>
+<summary>게시글 삭제</summary>
+    <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/post/Adobe%20Express%20-%20REQ-078.gif" />
+
+</details>
+
+<details>
+<summary>게시글 조회</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/post/Adobe%20Express%20-%20REQ-079.gif" />
+  
+</details>
+
+<details>
+<summary>게시글 신고</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/post/Adobe%20Express%20-%20REQ-080.gif" />
+  
+</details>
+
+<details>
+<summary>관리자-게시판 신고 관리</summary>
+  <img width="613" height="500" alt="groom_image" src="https://github.com/20250715-beyond-SW-Camp-19th-passion/be19-1st-passion-groom/raw/geonil/gif/post/Adobe%20Express%20-%20REQ-081.gif" />
+  
+</details>
+
+</details>
+<br>
+
+## 🍪 동료 평가
+
+### 🐑 정건일
+<table>
+  <tr>
+    <td>평가자</td>
+    <td align="center">내용</td>
+  </tr>
+  <tr>
+    <td>곽동근</td>
+    <td>본인이 맡은 바를 꼼꼼하게 확인하고 진행함과 동시에 조율자로서 주변 사람들 이야기를 잘 들어주고 정리해주었습니다<br>
+    덕분에 마찰이 있을수도 있는 상황을 모두 이해하고 넘어갈 수 있는 분위기를 만들어주었으며 안정적인 프로젝트를 진행할 수 있었습니다</td>
+  </tr>
+  <tr>
+    <td>이지윤</td>
+    <td>체계 설계자로서 프로젝트 진행체계에 대해 제일 중요하게 생각해주었습니다<br>
+      프로젝트에 대한 의논을 했을 때 제가 프로젝트에 집중한 상황에서 진행체계에 대한 경각심을 주어 프로젝트 진행에 대한 안정감을 받았습니다</td>
+  </tr>
+  <tr>
+    <td>최혜원</td>
+    <td>처음 프로젝트를 시작하고 모두가 익숙하지 않을 때 프로젝트 빌더로서 중요한 요구사항을 적고 초기 테이블 설계를 맡았습니다<br>
+      덕분에 프로젝트 시간을 좀 더 빨리 앞당길 수 있었고 여유롭게 프로젝트를 진행할 수 있었습니다
+    </td>
+  </tr>
+  <tr>
+    <td>이현수</td>
+    <td>팀원간에 의견일치가 되지 않는 상황에서도 묵행자로서 맡은 바 역할을 충실히 했습니다<br>
+    덕분에 저희 프로젝트에 빠르게 가속도가 붙어서 프로젝트를 완료할 수 있었습니다</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;총&nbsp;합&nbsp;</td>
+    <td>아직 학원이 익숙하지 않은 가운데 우연히 만난 팀원 4명과의 밸런스는 잘 맞았다고 생각합니다</td>
+  </tr>
+</table>
