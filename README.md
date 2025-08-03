@@ -236,12 +236,10 @@
 
 <details>
 <summary>멘토링 상품 등록</summary>
- ![Image](https://github.com/user-attachments/assets/776ce60c-eb9d-4f88-80ee-396f3a76a5c0)
 
 </details>
 <details>
 <summary>멘토링 상품 파일등록</summary>
-![Image](https://github.com/user-attachments/assets/8420066e-9646-47a4-8612-9c288bf89de1)
 
 </details>
 <details>
