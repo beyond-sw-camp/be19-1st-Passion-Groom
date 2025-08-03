@@ -263,6 +263,11 @@
 
 # TEST CASE  정의서
 [테스트케이스](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=806528099#gid=806528099)
+<details>
+<img width="1183" height="470" alt="스크린샷 2025-08-03 오후 5 47 03" src="https://github.com/user-attachments/assets/6f4783e6-c2cb-4ef5-a4c1-4c9730ffc76a" />
+<img width="1184" height="474" alt="스크린샷 2025-08-03 오후 5 47 32" src="https://github.com/user-attachments/assets/595e7f38-437d-4548-9e9c-b54d17d6a6fd" />
+
+</details>
 
 <br>
 
