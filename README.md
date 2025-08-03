@@ -244,11 +244,9 @@
 
 </details>
 
-
 <details>
-<summary><b><i>멘토링</i></b></summary>
-  <br>
-
+<summary><b><i>멘토링 상품</i></b></summary>
+<br>
 <details>
 <summary>멘토링 상품 등록</summary>
   
@@ -311,10 +309,10 @@
 ![Image](https://github.com/user-attachments/assets/70473c59-ae98-4b78-8b9e-7ca3d1927308)
 </details>
 
-<details>
-
 </details>
 
+<details>
+<summary><b><i>매칭</i></b></summary>
   <br>
 <details>
   <summary>매칭 가능 여부 확인</summary>
