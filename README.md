@@ -109,7 +109,9 @@
 <img width="960" height="596" alt="스크린샷 2025-08-03 오후 4 03 43" src="https://github.com/user-attachments/assets/79e33e20-b79b-4dbc-94db-e9c2bc069ad1" />
 <img width="963" height="467" alt="스크린샷 2025-08-03 오후 4 01 03" src="https://github.com/user-attachments/assets/ac72d5d9-0efe-438a-987d-306f2a571581" />
 </details>
+
 # 📝 테이블 명세서
+[테이블명세서](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=1835814727#gid=1835814727)
 <details>
   
 <details>
@@ -191,9 +193,9 @@
 </details>
 
 </details>
+
 # 📂 DB모델링
 
-[테이블명세서](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=1835814727#gid=1835814727)
 ## UML (Usecase Diagram)
 <details>
   <img width="1313" height="705" alt="usecase (1)" src="https://github.com/user-attachments/assets/44790aff-f045-4975-8d8d-e575eaa723dc" />
