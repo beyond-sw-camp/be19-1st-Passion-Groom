@@ -42,10 +42,8 @@
 
 > 관심 분야의 멘토와 멘티를 연결하여, 온라인/오프라인 클래스 및 맞춤형 멘토링을 제공하는 **매칭 플랫폼 서비스**입니다.  
 > 실시간 소통과 경험 공유를 중심으로 한 **1:1 커뮤니티 중심 멘토링** 을 제공합니다.
-<br>
-
 ---
-
+<br>
 
 ## 📌 1. 문제 배경 및 필요성
 
@@ -101,6 +99,8 @@
 
 ## 🗂️ 프로젝트 구조
 ---
+
+<br>
 
 # 📊 WBS(Work Breakdown Structure)
 [WBS](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=1656106199#gid=1656106199)
