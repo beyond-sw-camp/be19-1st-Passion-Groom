@@ -15,9 +15,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 📚 멘토멘티 매칭 플랫폼 서비스
+<br>
 
 ## ✨ Passion
 ### 끊임없는 시도로 우리만의 개발 스타일을 완성해가는 팀입니다!
+<br>
+
 ### 👨‍💻 팀원 소개
 
 | 이름 | 프로필 | GitHub |
@@ -27,11 +30,13 @@
 | 이현수 | <img src="https://github.com/user-attachments/assets/ed010d9b-3003-43c6-9be2-3e2ab0dce7aa" width="80"/> | <a href="https://github.com/golealda"><img src="https://img.shields.io/badge/GitHub%20%7C%20Link-000?style=for-the-badge&logo=github&logoColor=white" width="130"/></a> |
 | 정건일 | <img src="https://github.com/user-attachments/assets/4a8fbff8-c35c-41cc-a71e-9e73d247ca83" width="80"/> | <a href="https://github.com/kyuhon"><img src="https://img.shields.io/badge/GitHub%20%7C%20Link-000?style=for-the-badge&logo=github&logoColor=white" width="130"/></a> |
 | 최혜원 | <img src="https://github.com/user-attachments/assets/8c058d16-c491-4487-a58f-782ec8d65a3e" width="80"/> | <a href="https://github.com/haenin"><img src="https://img.shields.io/badge/GitHub%20%7C%20Link-000?style=for-the-badge&logo=github&logoColor=white" width="130"/></a> |
+<br>
 
 ## 🔖 목차
+
 #### [📢 프로젝트 개요](#-프로젝트-개요-1)<br>
 
-<br><br><br>
+<br><br>
 
 
 ## 📢 프로젝트 개요
