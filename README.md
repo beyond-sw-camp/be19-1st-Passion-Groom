@@ -1,7 +1,6 @@
 <img src="https://github.com/user-attachments/assets/0aff8f8d-da27-4c78-a406-ceca80f924bc" align="right" height="90" />
 
-## Groom
-
+# Groom 
 <img width="500" height="500" alt="제목을 입력해주세요_-001 (1)" src="https://github.com/user-attachments/assets/225e9bab-0a2d-4f24-af64-76157686fcb0" />
 
 <br>
@@ -107,7 +106,7 @@
 
 ## 1. 개념 모델링
 <details>
-  <img width="2310" height="1078" alt="image" src="https://github.com/user-attachments/assets/83438455-f46b-43cb-b004-43c0104442e8" />
+  <img width="2310" height="1078" alt="image" src="https://github.com/user-attachments/assets/7f259329-7e7a-4c83-95f9-f1811c851a4b" />
 </details>
 
 ## 2. 논리 모델링
