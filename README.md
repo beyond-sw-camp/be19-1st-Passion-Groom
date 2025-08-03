@@ -104,6 +104,9 @@
 </details>
 
 ## 1. 개념 모델링
+<details>
+  <img width="2310" height="1078" alt="image" src="https://github.com/user-attachments/assets/83438455-f46b-43cb-b004-43c0104442e8" />
+</details>
 
 ## 2. 논리 모델링
 <details>
