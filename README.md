@@ -108,14 +108,12 @@
 ## 🗂️ 프로젝트 구조
 ---
 
-<br>
 
 # 📊 WBS(Work Breakdown Structure)
 [WBS](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=1656106199#gid=1656106199)
 <details>
   <img width="1014" height="353" alt="스크린샷 2025-08-03 오후 4 04 21" src="https://github.com/user-attachments/assets/23eb6663-9e15-443f-adb9-ebe167b8ab07" />
 </details>
-<br>
 
 # 🗒️ 요구사항 명세서
 [요구사항명세서](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=356197860#gid=356197860)
@@ -123,8 +121,6 @@
 <img width="960" height="596" alt="스크린샷 2025-08-03 오후 4 03 43" src="https://github.com/user-attachments/assets/79e33e20-b79b-4dbc-94db-e9c2bc069ad1" />
 <img width="963" height="467" alt="스크린샷 2025-08-03 오후 4 01 03" src="https://github.com/user-attachments/assets/ac72d5d9-0efe-438a-987d-306f2a571581" />
 </details>
-<br>
-
 
 # 📝 테이블 명세서
 [테이블명세서](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=1835814727#gid=1835814727)
@@ -240,7 +236,6 @@
 </details>
 
 </details>
-<br>
 
 # 📂 DB모델링
 
@@ -248,25 +243,21 @@
 <details>
   <img width="1313" height="705" alt="usecase (1)" src="https://github.com/user-attachments/assets/44790aff-f045-4975-8d8d-e575eaa723dc" />
 </details>
-<br>
 
 ## 1. 개념 모델링
 <details>
   <img width="2310" height="1078" alt="image" src="https://github.com/user-attachments/assets/7f259329-7e7a-4c83-95f9-f1811c851a4b" />
 </details>
-<br>
 
 ## 2. 논리 모델링
 <details>
   <img width="752" height="663" alt="image" src="https://github.com/user-attachments/assets/646c06e4-5fb6-4b43-a608-1bfd7710ec0f" />
 </details>
-<br>
 
 ## 3. 물리 모델링
 <details>
   <img width="1275" height="652" alt="image" src="https://github.com/user-attachments/assets/38d95de8-776b-46f9-b352-c16c10b5567e" />
 </details>
-<br>
 
 # TEST CASE  정의서
 [테스트케이스](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=806528099#gid=806528099)
@@ -276,10 +267,7 @@
 
 </details>
 
-<br>
-
 # 🧲 Replication
-<br>
 
 ## 💡 TEST CASE 시연
 
