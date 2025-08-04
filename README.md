@@ -295,8 +295,11 @@ Groom
 <br>
 
 # 🧲 Replication
+마스터-슬레이브 구조의 MariaDB를 구축하였고, 마스터 서버에서만 데이터를 조작하고, 슬레이브 서버에서는 SELECT 쿼리만 수행되도록 설정했습니다.
+또한 IntelliJ의 Database Tool을 통해 각각의 DB를 연동하여 실시간 동기화 상태를 모니터링하고, 실무에서 자주 사용되는 로컬/원격 혼합 테스트 환경을 구성했습니다.
 <details>
-
+cash 테이블 데이터를 마스터에 입력한 후 슬레이브에서 동일한 내용을 SELECT 하여, 레플리케이션이 정상적으로 동작함을 확인했습니다.
+  
 ![Image](https://github.com/user-attachments/assets/47007428-c52a-4a51-9e5a-a42916930a72)
 ![Image](https://github.com/user-attachments/assets/c632ee3d-a2ee-4a61-aa80-78ccec2281eb)
 
