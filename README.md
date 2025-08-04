@@ -51,12 +51,12 @@
 
 ```bash
 Groom
-├── board
 ├── README.md 
-├── gif				             -- gif 파일
+├── gif                    -- gif 파일
 │   ├── matching
 │   ├── post
 │   └── user
+├── board                  -- 게시판
 ├── likementoring          -- 관심 멘토링
 ├── matching               -- 매칭
 ├── member                 -- 회원
@@ -68,7 +68,7 @@ Groom
 ├── record                 -- 멘토링 기록
 ├── review                 -- 멘토링 후기
 ├── schedule               -- 멘토링 일정
-└── SQL                    -- 게시판
+└── SQL                 
 ```
 ---
 <br><br>
