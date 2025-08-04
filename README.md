@@ -282,6 +282,10 @@ Groom
 </details>
 
 # 🧲 Replication
+<details>
+  
+<img width="995" height="528" alt="image" src="https://github.com/user-attachments/assets/c9aa8751-233a-4707-b996-123d55fcba7b" />
+</details>
 
 # 💡 TEST CASE 정의서
 [테스트케이스](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=806528099#gid=806528099)
