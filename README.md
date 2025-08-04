@@ -46,7 +46,7 @@
 ```bash
 Groom
 ├── board
-├── gif				              -- gif 파일
+├── gif				         -- gif 파일
 │   ├── matching
 │   ├── post
 │   └── user
