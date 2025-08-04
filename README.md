@@ -46,34 +46,6 @@
 #### [🍪 동료 평가](#-동료-평가-1)
 <br>
 
----
-## 파일구조
-
-```bash
-Groom
-├── README.md 
-├── gif                    -- gif 파일
-│   ├── matching
-│   ├── post
-│   └── user
-├── board                  -- 게시판
-├── likementoring          -- 관심 멘토링
-├── matching               -- 매칭
-├── member                 -- 회원
-│   ├── member
-│   └── profile
-├── mentoringgoods         -- 멘토링 상품
-├── mentoringgoodsreport   -- 멘토링 상품 신고
-├── message                -- 쪽지
-├── record                 -- 멘토링 기록
-├── review                 -- 멘토링 후기
-├── schedule               -- 멘토링 일정
-└── SQL                 
-```
----
-<br><br>
-
-
 ## 📢 프로젝트 개요
 
 > 관심 분야의 멘토와 멘티를 연결하여, 온라인/오프라인 클래스 및 맞춤형 멘토링을 제공하는 **매칭 플랫폼 서비스**입니다.  
@@ -134,6 +106,28 @@ Groom
 <br>
 
 ## 🗂️ 프로젝트 구조
+
+```bash
+Groom
+├── README.md 
+├── gif                    -- gif 파일
+│   ├── matching
+│   ├── post
+│   └── user
+├── board                  -- 게시판
+├── likementoring          -- 관심 멘토링
+├── matching               -- 매칭
+├── member                 -- 회원
+│   ├── member
+│   └── profile
+├── mentoringgoods         -- 멘토링 상품
+├── mentoringgoodsreport   -- 멘토링 상품 신고
+├── message                -- 쪽지
+├── record                 -- 멘토링 기록
+├── review                 -- 멘토링 후기
+├── schedule               -- 멘토링 일정
+└── SQL                 
+```
 ---
 
 
@@ -142,6 +136,7 @@ Groom
 <details>
   <img width="1014" height="353" alt="스크린샷 2025-08-03 오후 4 04 21" src="https://github.com/user-attachments/assets/23eb6663-9e15-443f-adb9-ebe167b8ab07" />
 </details>
+<br>
 
 # 🗒️ 요구사항 명세서
 [요구사항명세서](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=356197860#gid=356197860)
@@ -149,6 +144,7 @@ Groom
 <img width="960" height="596" alt="스크린샷 2025-08-03 오후 4 03 43" src="https://github.com/user-attachments/assets/79e33e20-b79b-4dbc-94db-e9c2bc069ad1" />
 <img width="963" height="467" alt="스크린샷 2025-08-03 오후 4 01 03" src="https://github.com/user-attachments/assets/ac72d5d9-0efe-438a-987d-306f2a571581" />
 </details>
+<br>
 
 # 📝 테이블 명세서
 [테이블명세서](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=1835814727#gid=1835814727)
@@ -265,35 +261,43 @@ Groom
 
 </details>
 
+<br>
+
 # 📂 DB모델링
 
 <img width="4230" height="2062" alt="groom (mentor-mentee matching service) (2)" src="https://github.com/user-attachments/assets/f7e9d8f9-5757-4b3f-bbb7-adb8f86dc06d" />
+<br>
 
 ## UML (Usecase Diagram)
 <details>
   <img width="1313" height="705" alt="usecase (1)" src="https://github.com/user-attachments/assets/44790aff-f045-4975-8d8d-e575eaa723dc" />
 </details>
+<br>
 
 ## 1. 개념 모델링
 <details>
   <img width="2310" height="1078" alt="image" src="https://github.com/user-attachments/assets/7f259329-7e7a-4c83-95f9-f1811c851a4b" />
 </details>
+<br>
 
 ## 2. 논리 모델링
 <details>
   <img width="752" height="663" alt="image" src="https://github.com/user-attachments/assets/646c06e4-5fb6-4b43-a608-1bfd7710ec0f" />
 </details>
+<br>
 
 ## 3. 물리 모델링
 <details>
   <img width="1275" height="652" alt="image" src="https://github.com/user-attachments/assets/38d95de8-776b-46f9-b352-c16c10b5567e" />
 </details>
+<br>
 
 # 🧲 Replication
 <details>
   
 <img width="995" height="528" alt="image" src="https://github.com/user-attachments/assets/c9aa8751-233a-4707-b996-123d55fcba7b" />
 </details>
+<br>
 
 # 💡 TEST CASE 정의서
 [테스트케이스](https://docs.google.com/spreadsheets/d/1vV79k7WLvPVLMwHdrMA_2h0wnTpoPa20lk2jTmREENI/edit?gid=806528099#gid=806528099)
@@ -302,6 +306,7 @@ Groom
 <img width="1184" height="474" alt="스크린샷 2025-08-03 오후 5 47 32" src="https://github.com/user-attachments/assets/595e7f38-437d-4548-9e9c-b54d17d6a6fd" />
 
 </details>
+<br>
 
 # 💾 TEST CASE 시연
 
