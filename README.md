@@ -43,6 +43,28 @@
 #### [🍪 동료 평가](#-동료-평가-1)
 <br>
 
+```bash
+Groom
+├── board
+├── gif				
+│   ├── matching
+│   ├── post
+│   └── user
+├── likementoring
+├── matching
+├── member
+│   ├── member
+│   └── profile
+├── mentoringgoods
+├── mentoringgoodsreport
+├── message
+├── README.md
+├── record
+├── review
+├── schedule
+└── SQL
+```
+
 <br><br>
 
 
