@@ -46,23 +46,23 @@
 ```bash
 Groom
 ├── board
-├── gif				
+├── gif				              -- gif 파일
 │   ├── matching
 │   ├── post
 │   └── user
-├── likementoring
-├── matching
-├── member
+├── likementoring          -- 관심 멘토링
+├── matching               -- 매칭
+├── member                 -- 회원
 │   ├── member
 │   └── profile
-├── mentoringgoods
-├── mentoringgoodsreport
-├── message
-├── README.md
-├── record
-├── review
-├── schedule
-└── SQL
+├── mentoringgoods         -- 멘토링 상품
+├── mentoringgoodsreport   -- 멘토링 상품 신고
+├── message                -- 쪽지
+├── README.md 
+├── record                 -- 멘토링 기록
+├── review                 -- 멘토링 후기
+├── schedule               -- 멘토링 일정
+└── SQL                    -- 게시판
 ```
 
 <br><br>
