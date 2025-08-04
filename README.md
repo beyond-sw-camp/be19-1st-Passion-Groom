@@ -267,6 +267,8 @@ Groom
 
 # 📂 DB모델링
 
+<img width="4230" height="2062" alt="groom (mentor-mentee matching service) (2)" src="https://github.com/user-attachments/assets/f7e9d8f9-5757-4b3f-bbb7-adb8f86dc06d" />
+
 ## UML (Usecase Diagram)
 <details>
   <img width="1313" height="705" alt="usecase (1)" src="https://github.com/user-attachments/assets/44790aff-f045-4975-8d8d-e575eaa723dc" />
