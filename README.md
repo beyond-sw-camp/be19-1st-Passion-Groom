@@ -15,6 +15,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 📚 멘토멘티 매칭 플랫폼 서비스
+[passion-groom.pdf](https://github.com/user-attachments/files/21569561/passion-groom.pdf)
+
 <br>
 
 ## ✨ Passion
@@ -49,7 +51,8 @@
 ```bash
 Groom
 ├── board
-├── gif				         -- gif 파일
+├── README.md 
+├── gif				             -- gif 파일
 │   ├── matching
 │   ├── post
 │   └── user
@@ -61,7 +64,6 @@ Groom
 ├── mentoringgoods         -- 멘토링 상품
 ├── mentoringgoodsreport   -- 멘토링 상품 신고
 ├── message                -- 쪽지
-├── README.md 
 ├── record                 -- 멘토링 기록
 ├── review                 -- 멘토링 후기
 ├── schedule               -- 멘토링 일정
