@@ -97,7 +97,7 @@
 - 지역과 관심사 기반 **멘토-멘티 매칭 시스템**
 - 멘토링 매칭 후 멘토의 **피드백 기능**
 - **후기 및 별점 평가**, 추천 멘토 노출 시스템
-- **일정 관리**, 즐겨찾기 등 부가 UX 기능
+- **일정 관리**, **즐겨찾기** 등 부가 UX 기능
 <br>
 
 
@@ -296,8 +296,10 @@ Groom
 
 # 🧲 Replication
 <details>
-  
-<img width="995" height="528" alt="image" src="https://github.com/user-attachments/assets/c9aa8751-233a-4707-b996-123d55fcba7b" />
+
+![Image](https://github.com/user-attachments/assets/47007428-c52a-4a51-9e5a-a42916930a72)
+![Image](https://github.com/user-attachments/assets/c632ee3d-a2ee-4a61-aa80-78ccec2281eb)
+
 </details>
 <br>
 
