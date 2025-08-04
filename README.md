@@ -15,7 +15,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 📚 멘토멘티 매칭 플랫폼 서비스
-[passion-groom.pdf](https://github.com/user-attachments/files/21569561/passion-groom.pdf)
+[passion-groom.pdf](https://github.com/user-attachments/files/21569577/passion-groom.pdf)
+
 
 <br>
 
